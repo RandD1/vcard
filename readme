@@ -1,4 +1,13 @@
+
 hi this is my first programe
 new line added
 its for testing
+<<<<<<< HEAD
 5th line
+=======
+another line added for push
+5th line modifying for testing
+here is 7
+nd the another line 
+nd one more line
+>>>>>>> 99f1573550eedeb7560e659d4491413b98525a2c
